@@ -1,2 +1,2 @@
-# C-21
-function argument 
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
